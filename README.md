@@ -3,6 +3,9 @@
 ## Demo Video  
 [Click here to watch](https://drive.google.com/file/d/1BdZeknDEYOq2x9FWQmgcCYolUZ6FOp8e/view?usp=sharing)
 
+
+# Description
+
 The Flight Finder App is a full-stack web-based application designed to simplify the process of booking flight tickets.
 It is developed using the MERN stack—MongoDB, Express.js, React.js, and Node.js.
 
